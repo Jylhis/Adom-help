@@ -1,0 +1,16 @@
+[14-May-2012 13:01:53] PHP Parse error:  syntax error, unexpected '<' in /home/datta702/public_html/topati11/markusj/adom/index.php on line 1
+[14-May-2012 13:02:01] PHP Parse error:  syntax error, unexpected '<' in /home/datta702/public_html/topati11/markusj/adom/index.php on line 1
+[14-May-2012 13:04:53] PHP Warning:  fread() [<a href='function.fread'>function.fread</a>]: Length parameter must be greater than 0 in /home/datta702/public_html/topati11/markusj/adom/index.php on line 22
+[14-May-2012 13:20:14] PHP Warning:  fread() [<a href='function.fread'>function.fread</a>]: Length parameter must be greater than 0 in /home/datta702/public_html/topati11/markusj/adom/adom.php on line 23
+[14-May-2012 13:42:43] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/datta702/public_html/topati11/markusj/adom/adom.php on line 128
+[14-May-2012 14:26:50] PHP Warning:  fread() [<a href='function.fread'>function.fread</a>]: Length parameter must be greater than 0 in /home/datta702/public_html/topati11/markusj/adom/index.php on line 25
+[15-May-2012 09:15:42] PHP Warning:  fread() [<a href='function.fread'>function.fread</a>]: Length parameter must be greater than 0 in /home/datta702/public_html/topati11/markusj/adom/index.php on line 25
+[16-May-2012 13:06:30] PHP Parse error:  syntax error, unexpected '<' in /home/datta702/public_html/topati11/markusj/adom/kuva.php on line 23
+[16-May-2012 13:09:16] PHP Parse error:  syntax error, unexpected '<' in /home/datta702/public_html/topati11/markusj/adom/kuva.php on line 23
+[16-May-2012 13:09:17] PHP Parse error:  syntax error, unexpected '<' in /home/datta702/public_html/topati11/markusj/adom/kuva.php on line 23
+[16-May-2012 13:09:17] PHP Parse error:  syntax error, unexpected '<' in /home/datta702/public_html/topati11/markusj/adom/kuva.php on line 23
+[16-May-2012 13:09:21] PHP Parse error:  syntax error, unexpected '<' in /home/datta702/public_html/topati11/markusj/adom/kuva.php on line 23
+[16-May-2012 13:10:22] PHP Parse error:  syntax error, unexpected '<' in /home/datta702/public_html/topati11/markusj/adom/kuva.php on line 23
+[16-May-2012 13:10:22] PHP Parse error:  syntax error, unexpected '<' in /home/datta702/public_html/topati11/markusj/adom/kuva.php on line 23
+[16-May-2012 13:20:46] PHP Parse error:  syntax error, unexpected '<' in /home/datta702/public_html/topati11/markusj/adom/kuva.php on line 40
+[16-May-2012 13:20:47] PHP Parse error:  syntax error, unexpected '<' in /home/datta702/public_html/topati11/markusj/adom/kuva.php on line 40
