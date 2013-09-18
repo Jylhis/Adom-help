@@ -1,0 +1,130 @@
+<html>
+<head>
+                <title>ADOM</title>
+<link rel=StyleSheet href="style.css" type="text/css">
+<script type="text/javascript" src="cssverticalmenu.js"></script>
+
+
+<ul id="verticalmenu" class="glossymenu">
+<li><a href="index.php">Etusivu</a></li>
+<li><a href="adom.php" >Adom</a></li>
+<li><a href="tiedot.php">Tietoa meistä</a></li>
+<li><a href="kuva.html" class="selected">Kuvagalleria</a></li>
+<li><a href="http://www.adom.de/">Adomin kotisivu</a></li>
+</ul>
+
+<script language="JavaScript" type="text/JavaScript">
+
+function canManipulateImages()
+{
+        if (document.images)
+                return true;
+        else
+                return false;
+}
+
+function loadPosterImage(imageURL)
+{
+        if (gImageCapableBrowser)
+        {
+                document.imagePoster.src = imageURL;
+                return false;
+        }
+        else
+        {
+                return true;
+        }
+}
+
+gImageCapableBrowser = canManipulateImages();
+
+</script>
+
+
+
+</head>
+
+<body>
+<div id="imgg">
+<img src="kyla.png" 
+border="1" name="imagePoster" 
+width="650" height="500" alt="Kuvagalleria"> 
+<br><br>
+<a href="attack.png" 
+onClick="return(loadPosterImage('attack.png'))">
+ <img border="1" src="attack.png" width="75" 
+ height="45" alt="1. kuva"></a> 
+ 
+ 
+<a href="Paikallinensaa.png" 
+onClick="return(loadPosterImage('Paikallinensaa.png'))">
+ <img border="1" src="Paikallinensaa.png" width="75" 
+ height="45" alt="1. kuva"></a> 
+ 
+ <a href="kuva.jpg" 
+onClick="return(loadPosterImage('kuva.jpg'))">
+ <img border="1" src="kuva.jpg" width="75" 
+ height="45" alt="1. kuva"></a>
+ 
+ <a href="Adom_Ansahuone.jpg" 
+onClick="return(loadPosterImage('Adom_Ansahuone.jpg'))">
+ <img border="1" src="Adom_Ansahuone.jpg" width="75" 
+ height="45" alt="1. kuva"></a>
+
+ <a href="kylaxdd.png" 
+onClick="return(loadPosterImage('kylaxdd.png'))">
+ <img border="1" src="kylaxdd.png" width="75" 
+ height="45" alt="1. kuva"></a>
+ 
+ <a href="adom.png" 
+onClick="return(loadPosterImage('adom.png'))">
+ <img border="1" src="adom.png" width="75" 
+ height="45" alt="1. kuva"></a>
+ 
+ <a href="adom5c.gif" 
+onClick="return(loadPosterImage('adom5c.gif'))">
+ <img border="1" src="adom5c.gif" width="75" 
+ height="45" alt="1. kuva"></a>
+ 
+ <a href="aloitus_ikkuna.png" 
+onClick="return(loadPosterImage('aloitus_ikkuna.png'))">
+ <img border="1" src="aloitus_ikkuna.png" width="75" 
+ height="45" alt="1. kuva"></a>
+ 
+ <a href="Kuolema.png" 
+onClick="return(loadPosterImage('Kuolema.png'))">
+ <img border="1" src="Kuolema.png" width="75" 
+ height="45" alt="1. kuva"></a>
+ 
+<a href="kyla.png" 
+onClick="return(loadPosterImage('kyla.png'))">
+ <img border="1" src="kyla.png" width="75" 
+ height="45" alt="1. kuva"></a>
+ 
+ <a href="hauskakuva1.png" 
+onClick="return(loadPosterImage('hauskakuva1.png'))">
+ <img border="1" src="hauskakuva1.png" width="75" 
+ height="45" alt="1. kuva"></a>
+ 
+ <a href="hauskakuva2.jpg" 
+onClick="return(loadPosterImage('hauskakuva2.jpg'))">
+ <img border="1" src="hauskakuva2.jpg" width="75" 
+ height="45" alt="1. kuva"></a>
+ <br><br>
+ <a href="hauskakuva3.png" 
+onClick="return(loadPosterImage('hauskakuva3.png'))">
+ <img border="1" src="hauskakuva3.png" width="75" 
+ height="45" alt="1. kuva"></a>
+ 
+ <a href="hauskakuva4.jpg" 
+onClick="return(loadPosterImage('hauskakuva4.jpg'))">
+ <img border="1" src="hauskakuva4.jpg" width="75" 
+ height="45" alt="1. kuva"></a>
+ </div>
+</body>
+<address><a href="http://dattari.net/topati11/markusj/adom/kuva.html" target="_self">
+ <img src="fi.gif" />
+</a><a href="http://dattari.net/topati11/markusj/adom/en/kuva.html" target="_self">
+ <img src="uk.gif" />
+</a></address>
+</html>
